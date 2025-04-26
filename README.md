@@ -33,7 +33,15 @@
 
 <div align="center">
   <h2>Project images</h2>
-  <p>
-
-  </p>
 </div>
+
+![image alt](https://github.com/JoorDex/Gestion-Hotelera/blob/d3e0ab18fcc007ba0738a0d7ba6de234dd5daeb5/Gesti%C3%B3n%20Hotelera/P%C3%A1gina%20principal.png)
+ㅤ
+![image alt](https://github.com/JoorDex/Gestion-Hotelera/blob/d3e0ab18fcc007ba0738a0d7ba6de234dd5daeb5/Gesti%C3%B3n%20Hotelera/Habitaciones.png)
+ㅤ
+![image alt](https://github.com/JoorDex/Gestion-Hotelera/blob/d3e0ab18fcc007ba0738a0d7ba6de234dd5daeb5/Gesti%C3%B3n%20Hotelera/Pago%20PayPal.png)
+ㅤ
+![image alt](https://github.com/JoorDex/Gestion-Hotelera/blob/d3e0ab18fcc007ba0738a0d7ba6de234dd5daeb5/Gesti%C3%B3n%20Hotelera/Ticket.png)
+ㅤ
+![image alt](https://github.com/JoorDex/Gestion-Hotelera/blob/d3e0ab18fcc007ba0738a0d7ba6de234dd5daeb5/Gesti%C3%B3n%20Hotelera/Panel%20de%20administrador.png)
+
